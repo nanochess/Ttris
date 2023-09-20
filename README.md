@@ -12,4 +12,6 @@ I've provided the utility _cmd.c_ to convert the generated binary to the CMD fil
 
 The useful binary for these computers is _ttris.cmd_
 
+You can see a video of the emulated [Ttris game on Youtube](https://youtu.be/kYh6txDJW7Q?si=XeSYipnMCuC4qLeM)
+
 ![screenshot](ttris.png)
