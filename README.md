@@ -11,3 +11,5 @@ The source code is in _ttris.asm_ and it can be assembled using tniASM v0.44.
 I've provided the utility _cmd.c_ to convert the generated binary to the CMD file executable in emulators and real hardware, along _e.bat_ to show how it is used.
 
 The useful binary for these computers is _ttris.cmd_
+
+![screenshot](ttris.png)
